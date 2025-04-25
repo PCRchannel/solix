@@ -24,7 +24,7 @@ class Solix:
             "User-Agent": FakeUserAgent().random
         }
         self.BASE_API = "https://api.solixdepin.net/api"
-        self.ref_code = "ikmlnnnY" # U can change it with yours.
+        self.ref_code = "u8XGiGXY" # U can change it with yours.
         self.proxies = []
         self.proxy_index = 0
         self.account_proxies = {}
