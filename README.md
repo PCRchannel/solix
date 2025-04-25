@@ -3,7 +3,7 @@ Solix Depin BOT
 
 - Register [Solix Depin](https://tinyurl.com/4xdsnzte)
 - Download [Extension](https://chromewebstore.google.com/detail/solix/ocanmekhhffgpiiambnjmlconhhfgolg)
-- Use Code `4xdsnzte`
+- Use Code `u8XGiGXY`
 
 ## Features
 
