@@ -26,7 +26,7 @@ Solix Depin BOT
    git clone https://github.com/PCRchannel/solix.git
    ```
    ```bash
-   cd Solix-BOT
+   cd solix
    ```
 
 2. **Install Requirements:**
