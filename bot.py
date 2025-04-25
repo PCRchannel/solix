@@ -47,7 +47,7 @@ class Solix:
         {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Solix - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}
+        {Fore.GREEN + Style.BRIGHT} {Fore.YELLOW + Style.BRIGHT}
         ██████╗  ██████╗ ██████╗      ██████╗██╗  ██╗ █████╗ ███╗   ██╗███╗   ██╗███████╗ ██╗     
         ██╔══██╗██╔═══╗  ██╔══██╗    ██╔════╝██║  ██║██╔══██╗████╗  ██║████╗  ██║██       ██║     
         ██████╔╝██║      █████╔╝     ██║     ███████║███████║██╔██╗ ██║██╔██╗ ██║███████║ ██║     
